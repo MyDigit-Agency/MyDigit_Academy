@@ -1,1 +1,1 @@
-# MyDigit_Acadmy
+# MyDigit_Academy
